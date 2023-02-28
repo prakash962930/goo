@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q!
-|2,0,1677599690,,"q!"
 :wq!
-|2,0,1677598380,,"wq!"
+|2,0,1677601558,,"wq!"
+:q!
+|2,0,1677601498,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,18 +27,116 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/java-db-Login/pom.xml
-|4,48,1,0,1677599690,"~/java-db-Login/pom.xml"
-'1  24  0  ~/java-install.sh
-|4,49,24,0,1677598380,"~/java-install.sh"
+'0  61  0  ~/pom.xml
+|4,48,61,0,1677601558,"~/pom.xml"
+'1  60  0  ~/java-db-Login/pom.xml
+|4,49,60,0,1677601498,"~/java-db-Login/pom.xml"
+'2  9  0  ~/.bash_profile
+|4,50,9,0,1677601072,"~/.bash_profile"
+'3  1  0  ~/java-db-Login/pom.xml
+|4,51,1,0,1677599690,"~/java-db-Login/pom.xml"
+'4  1  0  ~/java-db-Login/pom.xml
+|4,52,1,0,1677599690,"~/java-db-Login/pom.xml"
+'5  24  0  ~/java-install.sh
+|4,53,24,0,1677598380,"~/java-install.sh"
 
 # Jumplist (newest first):
+-'  61  0  ~/pom.xml
+|4,39,61,0,1677601558,"~/pom.xml"
+-'  1  0  ~/pom.xml
+|4,39,1,0,1677601530,"~/pom.xml"
+-'  60  0  ~/java-db-Login/pom.xml
+|4,39,60,0,1677601498,"~/java-db-Login/pom.xml"
+-'  60  0  ~/java-db-Login/pom.xml
+|4,39,60,0,1677601498,"~/java-db-Login/pom.xml"
+-'  1  0  ~/java-db-Login/pom.xml
+|4,39,1,0,1677601430,"~/java-db-Login/pom.xml"
+-'  1  0  ~/java-db-Login/pom.xml
+|4,39,1,0,1677601430,"~/java-db-Login/pom.xml"
+-'  9  0  ~/.bash_profile
+|4,39,9,0,1677601072,"~/.bash_profile"
+-'  9  0  ~/.bash_profile
+|4,39,9,0,1677601072,"~/.bash_profile"
+-'  9  0  ~/.bash_profile
+|4,39,9,0,1677601072,"~/.bash_profile"
+-'  9  0  ~/.bash_profile
+|4,39,9,0,1677601072,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1677601045,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1677601045,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1677601045,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1677601045,"~/.bash_profile"
+-'  1  0  ~/java-db-Login/pom.xml
+|4,39,1,0,1677599690,"~/java-db-Login/pom.xml"
+-'  1  0  ~/java-db-Login/pom.xml
+|4,39,1,0,1677599690,"~/java-db-Login/pom.xml"
+-'  1  0  ~/java-db-Login/pom.xml
+|4,39,1,0,1677599690,"~/java-db-Login/pom.xml"
 -'  1  0  ~/java-db-Login/pom.xml
 |4,39,1,0,1677599690,"~/java-db-Login/pom.xml"
 -'  24  0  ~/java-install.sh
 |4,39,24,0,1677598380,"~/java-install.sh"
 -'  24  0  ~/java-install.sh
 |4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  24  0  ~/java-install.sh
+|4,39,24,0,1677598380,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
+-'  1  0  ~/java-install.sh
+|4,39,1,0,1677598324,"~/java-install.sh"
 -'  1  0  ~/java-install.sh
 |4,39,1,0,1677598324,"~/java-install.sh"
 -'  1  0  ~/java-install.sh
@@ -46,9 +144,23 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/pom.xml
+	*	1677601554	0
+	"	61	0
+	^	61	0
+	.	60	10
+	+	60	10
+
 > ~/java-db-Login/pom.xml
-	*	1677599685	0
-	"	1	0
+	*	1677601494	0
+	"	60	0
+
+> ~/.bash_profile
+	*	1677601068	0
+	"	9	0
+	^	9	0
+	.	8	48
+	+	8	48
 
 > ~/java-install.sh
 	*	1677598375	0
